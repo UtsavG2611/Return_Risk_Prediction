@@ -320,4 +320,4 @@ pip install pandas scikit-learn joblib fastapi uvicorn streamlit requests
   - Binary prediction: 1 returned, 0 not returned
   - Return risk probability
 
-This minimal implementation satisfies the core problem statement with the simplest possible working code while keeping the training, backend, and frontend aligned with the chosen tech stack.
+This minimal implementation satisfies the core problem statement with the simplest possible working code while keeping the training, backend, and frontend aligned with the chosen tech-stack.
