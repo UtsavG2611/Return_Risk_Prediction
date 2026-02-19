@@ -321,3 +321,9 @@ pip install pandas scikit-learn joblib fastapi uvicorn streamlit requests
   - Return risk probability
 
 This minimal implementation satisfies the core problem statement with the simplest possible working code while keeping the training, backend, and frontend aligned with the chosen tech stack.
+
+## Contributors :
+1. Amritanshu Kumar - [Github ID](https://github.com/Amrit1005)
+2. Utsav Gupta
+3. Aanchal Doshi
+4. Medhansh Singhal 
