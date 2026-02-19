@@ -323,5 +323,5 @@ pip install pandas scikit-learn joblib fastapi uvicorn streamlit requests
 ## Contributors :
 1. Amritanshu Kumar - [Github ID](https://github.com/Amrit1005)
 2. Utsav Gupta
-3. Aanchal Doshi
+3. Aanchal Doshi - [Github ID](https://github.com/Aanchal0008)
 4. Medhansh Singhal 
